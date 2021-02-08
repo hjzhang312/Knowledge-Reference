@@ -1,0 +1,13 @@
+# interfaces(5) file used by ifup(8) and ifdown(8)
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet auto
+pre-up ifconfig eth0 hw ether 48:0F:CF:36:28:FB
+address 
+netmask 
+geteway 
+dns 10.10.1.3
+
+
