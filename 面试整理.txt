@@ -1,0 +1,13 @@
+1、c++ 多态继承重载理解
+2、内存泄漏这块的预防
+3、c++11 和C++98 区别
+空指针，智能指针，匿名函数，for结合auto迭代访问stl,throw变为noexcept，pragma once代替ifdefine、线程
+4、智能指针/new/malloc的区别
+5、const 和define区别
+6、多态和虚函数，子类如何调用父类得虚函数
+7、函数宕机后如何获取其堆栈信息
+8、C++深拷贝和浅拷贝
+9、C语言实现虚函数
+10、C语言实现MVC模型
+11、inline 和define
+12、select 和epoll
