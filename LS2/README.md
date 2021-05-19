@@ -1,6 +1,6 @@
 # the Proxy and MCU communication protocol
 ## communication using LS9AD format
-[LS9AD](images／a.png)
+![image](https://github.com/hjzhang312/Knowledge-Reference/blob/master/LS2/images/a.png)
 
 ```
  RemoteId           - 0
