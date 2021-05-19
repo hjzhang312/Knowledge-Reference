@@ -2,3 +2,10 @@
 
 代码审查           服务器编译
 Gerrit         ->    Jenkins
+
+翻墙到公司
+网络设置->VPN->新建
+
+username: HANSONG-VPN2
+hostname:218.104.82.74
+password：Hs123456
