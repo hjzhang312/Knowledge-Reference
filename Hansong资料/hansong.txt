@@ -1,4 +1,6 @@
 
+sqlite 工具： DB Browser for SQLite
+内网gitea
 
 代码审查           服务器编译
 Gerrit         ->    Jenkins
