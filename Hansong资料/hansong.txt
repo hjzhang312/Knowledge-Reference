@@ -11,3 +11,8 @@ Gerrit         ->    Jenkins
 username: HANSONG-VPN2
 hostname:218.104.82.74
 password：Hs123456
+
+
+iperf -c 192.168.31.13 -u -b 5M -t 120 -i 1 -w 128K
+iperf -u -s -i 1 -w 128K
+
