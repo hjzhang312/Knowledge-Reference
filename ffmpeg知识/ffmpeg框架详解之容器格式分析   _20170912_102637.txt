@@ -1,0 +1,1 @@
+我们常说的mpg，rmvb，ts，mkv，mp4等其实就是容器格式，用于封装已经编码过的音频数据和视频数据。一个视频文件的播放第一步需要知道它的容器格式，并把音频数据和视频数据从容器中分离出来，我们称这过程是解复用。ffmpeg中在avformat.h文件中定义了很多用于解复用的数据结构，其中常用的有AVInputFormat(用于解复用)，AVOutputFormat(用于复用)，AVStream(用于描述解复用后的数据流)，AVFormatContext(复用/解复用的上下文)。
